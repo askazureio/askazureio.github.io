@@ -2,3 +2,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 title: ask an azure architect slack channel
 description: info on the azure architect slack
 show_downloads: false
+author:
+  name: John Patrick Dandison
+  twitter: AzureAndChill
+  picture: /assets/images/johndoe.png
