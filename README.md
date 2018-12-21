@@ -1,7 +1,3 @@
----
-layout: page
-title: Welcome to our community!
----
 # Welcome to the Ask Azure community!
 Welcome to our community! We created this slack channel in an effort to foster a community, old and new, of users, customers, partners and employees who are using Azure. Here we share best practices, help work through designs and questions, share relevant content and help each other out. Think of us as a virtual user group, where we can all mingle to learn and share Azure-related content and questions.
 
