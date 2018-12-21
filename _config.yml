@@ -1,5 +1,6 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 title: ask an azure architect slack
+sub_title: welcome to our azure community
 description: ask an azure architect slack
 show_downloads: false
 github_username: jpda
