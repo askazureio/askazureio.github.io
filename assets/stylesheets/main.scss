@@ -7,6 +7,6 @@
 
 
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
-$headline-font-family: "Antic";
-$base-font-family: "Antic";
+$headline-font-family: "Nanum Gothic";
+$base-font-family: "Nanum Gothic";
 @import "basically-basic";
