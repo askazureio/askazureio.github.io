@@ -7,6 +7,6 @@
 
 
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
-$headline-font-family: "News Cycle";
-$base-font-family: "News Cycle";
+$headline-font-family: "Antic";
+$base-font-family: "Antic";
 @import "basically-basic";

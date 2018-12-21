@@ -26,9 +26,9 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "News Cycle"
+  - name: "Antic"
     weights: "400,400i,600,600i"
-  - name: "News Cycle"
+  - name: "Antic"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
