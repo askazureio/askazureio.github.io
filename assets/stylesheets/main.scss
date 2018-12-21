@@ -4,9 +4,10 @@
 @charset "utf-8";
 
 // Theme skin
+$headline-font-family: "News Cycle";
+$base-font-family: "News Cycle";
+
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
 
-$headline-font-family: "News Cycle";
-$base-font-family: "News Cycle";
