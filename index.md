@@ -10,6 +10,13 @@ Azure is massive and no one can know it all - don't hesitate to ask.
 ## Disclaimer
 This is **not** officially hosted, sanctioned, endorsed or managed by Microsoft. Microsoft employees and partners speak only for themselves and nothing is warranted, nor is any liability offered or inferred.
 
+## Why isn't this on Microsoft Teams?
+We've gotten this question a lot in our short lifetime - there are a couple of reasons:
+- Teams has some user limitations and licensing limitations that, at least for now, make it a bigger hurdle to cross
+- This isn't an offically-sanctioned channel, just a community of people who are using or are interested in Azure - we want to get closest to everyone without onerous requirements.
+
+As Teams continues to mature, however, we'll constantly re-evaluate when it might be worth a switch. For now, Slack is the best place. 
+
 ## Getting started
 - Sign up! Go here to get in: [https://aka.ms/join-ask-azure](https://aka.ms/join-ask-azure)
 - Microsoft FTEs can join here: [https://join.slack.com/t/askazure/signup](https://join.slack.com/t/askazure/signup)
