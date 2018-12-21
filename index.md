@@ -10,8 +10,8 @@ Azure is massive and no one can know it all - don't hesitate to ask.
 This is **not** officially hosted, sanctioned, endorsed or managed by Microsoft. Microsoft employees and partners speak only for themselves and nothing is warranted, nor is any liability offered or inferred.
 
 ## Getting started
-- Sign up! Go here to get in: https://aka.ms/join-ask-azure
-- Microsoft FTEs can join here: https://join.slack.com/t/askazure/signup
+- Sign up! Go here to get in: [https://aka.ms/join-ask-azure](https://aka.ms/join-ask-azure)
+- Microsoft FTEs can join here: [https://join.slack.com/t/askazure/signup](https://join.slack.com/t/askazure/signup)
 
 Put your affiliation in your name, if you prefer, so we can find you quickly.
 
