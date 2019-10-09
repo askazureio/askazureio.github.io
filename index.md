@@ -18,7 +18,7 @@ We've gotten this question a lot in our short lifetime - there are a couple of r
 As Teams continues to mature, however, we'll constantly re-evaluate when it might be worth a switch. For now, Slack is the best place. 
 
 ## Getting started
-- Sign up! Go here to get in: [https://aka.ms/join-ask-azure](https://aka.ms/join-ask-azure)
+- Sign up! Go here to get in: [https://aka.ms/join-askazure](https://aka.ms/join-askazure)
 - Microsoft FTEs can join here: [https://join.slack.com/t/askazure/signup](https://join.slack.com/t/askazure/signup)
 
 Put your affiliation in your name, if you prefer, so we can find you quickly.
